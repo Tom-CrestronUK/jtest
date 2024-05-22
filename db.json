@@ -1,0 +1,101 @@
+{
+    "Stores": 
+    [
+        {
+            "SPACE_ID": "A",
+            "SPACE_DECOR": "British Pub",
+            "IS_STOREFRONT": true,
+            "MACADDR": "00 10 7F A1 B2 C3",
+            "AREA": "47.725",
+            "OPEN": true
+        },
+        {
+            "SPACE_ID": "B",
+            "SPACE_DECOR": "Tuscan Café",
+            "IS_STOREFRONT": true,
+            "MACADDR": "00.10.7F.33.44.55",
+            "AREA": "28",
+            "OPEN": true
+        },
+        {
+            "SPACE_ID": "C",
+            "SPACE_DECOR": "American Diner",
+            "IS_STOREFRONT": true,
+            "MACADDR": "00:10:7f:ab:cd:ef",
+            "AREA": "32.407",
+            "OPEN": true
+        },
+        {
+            "SPACE_ID": "D",
+            "SPACE_DECOR": "Turkish Tent",
+            "IS_STOREFRONT": true,
+            "MACADDR": "00-10-7f-65-43-21",
+            "AREA": "25.001",
+            "OPEN": true
+        },
+        {
+            "SPACE_ID": "E",
+            "SPACE_DECOR": "French Bistro",
+            "IS_STOREFRONT": true,
+            "MACADDR": "00,10,7f,ff,dd,11",
+            "AREA": "37.89",
+            "OPEN": true
+        },
+        {
+            "SPACE_ID": "F",
+            "SPACE_DECOR": "Greek Patio",
+            "IS_STOREFRONT": true,
+            "MACADDR": "00107F004A80",
+            "AREA": "42.6",
+            "OPEN": false
+        },
+        {
+            "SPACE_ID": "1",
+            "SPACE_DECOR": "Workspace",
+            "IS_STOREFRONT": false,
+            "MACADDR": "",
+            "AREA": "38.44",
+            "OPEN": true
+        },
+        {
+            "SPACE_ID": "2",
+            "SPACE_DECOR": "Workspace",
+            "IS_STOREFRONT": false,
+            "MACADDR": "",
+            "AREA": "19.846",
+            "OPEN": true
+        },
+        {
+            "SPACE_ID": "3",
+            "SPACE_DECOR": "Workspace",
+            "IS_STOREFRONT": false,
+            "MACADDR": "",
+            "AREA": "27.94",
+            "OPEN": true
+        },
+        {
+            "SPACE_ID": "4",
+            "SPACE_DECOR": "Workspace",
+            "IS_STOREFRONT": false,
+            "MACADDR": "",
+            "AREA": "17",
+            "OPEN": true
+        },
+        {
+            "SPACE_ID": "5",
+            "SPACE_DECOR": "Workspace",
+            "IS_STOREFRONT": false,
+            "MACADDR": "",
+            "AREA": "31.5",
+            "OPEN": true
+        },
+        {
+            "SPACE_ID": "6",
+            "SPACE_DECOR": "Workspace",
+            "IS_STOREFRONT": false,
+            "MACADDR": "",
+            "AREA": "35.029",
+            "OPEN": false
+        }
+    ]
+}
